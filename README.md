@@ -55,7 +55,7 @@ git clone https://github.com/Sandro-Raphael/mercadinho-api
 ### 2. Entrar no diretório
 
 ```bash
-cd mercadinho-api
+cd le-mercado
 ```
 
 ### 3. Configurar as variáveis de ambiente
