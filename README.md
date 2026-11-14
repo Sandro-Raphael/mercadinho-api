@@ -49,7 +49,7 @@ Não é necessário instalar Python ou PostgreSQL diretamente na máquina para e
 ### 1. Clonar o repositório
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/Sandro-Raphael/mercadinho-api
 ```
 
 ### 2. Entrar no diretório
